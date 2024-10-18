@@ -1,1 +1,2 @@
-# inventory-sales-ci
+# phpmysales
+formerly inventory-sales-ci
